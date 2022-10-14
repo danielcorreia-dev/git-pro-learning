@@ -1,8 +1,7 @@
 # Initializing / Cloning a repository
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
+
 For start a new repository using git you need to start him in a folder or clone from a remote repository.
 
-<br>
 
 ## Starting a git repository
 
@@ -21,10 +20,18 @@ For **cloning** a repository inside the directory or passing it's path, type:
     git clone <url>
     git clone <url> <destination>
 ```
-<br>
 
 ## Related Guides
 
 
 [Making track of your changes ( add / commit / push / pull )](https://github.com/matiassingers/awesome-readme)
 
+[Git initial configs](https://github.com/danielcorreia-dev/git-pro-learning/blob/c36544845db2f7d11969dabd7fdae9ec018beecc/git-config.md)
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
