@@ -3,7 +3,7 @@
 For start a new repository using git you need to start him in a folder or clone from a remote repository.
 
 
-## Starting a git repository
+# Starting a git repository
 
 For **starting** a new git repository, inside the directory that you wanna make your project, open the terminal / git bash and type: 
 
@@ -12,7 +12,7 @@ For **starting** a new git repository, inside the directory that you wanna make 
 ```
 Using this command the git application will create a ``.git`` folder in your directory. Making it ready to make local adds and commits.
 
-## Cloning a repository
+# Cloning a repository
 
 For **cloning** a repository inside the directory or passing it's path, type:
 
