@@ -3,7 +3,7 @@
   
 Understanding ``git config`` , setting it up names, the default editor and some useful commands to use with new machines or when switching accounts.
 
-## Config Scopes
+# Config Scopes
 
 `` system > global > local ``
 
@@ -24,14 +24,14 @@ Local file, will affect only the repository that you're working with.
 
 <br>
 
-## Setting up a default branch
+# Setting up a default branch
 
 ```bash
   git config --global init.defaultBranch <branch>
 ```
 
 
-## Name and email of commits
+# Name and email of commits
 ```bash
     git config --global user.name '<name>'
 ```
@@ -40,14 +40,14 @@ Local file, will affect only the repository that you're working with.
 ```
 
 
-## Default Editor
+# Default Editor
 
 ```bash
     git config --global core.editor <editor>
 ```
 
 
-## See all local configs
+# See all local configs
 
 ```bash
     git config -l
