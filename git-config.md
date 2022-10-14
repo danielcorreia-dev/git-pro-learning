@@ -31,7 +31,7 @@ Local file, will affect only the repository that you're working with.
 ```
 
 
-# Name and email of commits
+# Name and email in commits
 ```bash
     git config --global user.name '<name>'
 ```
