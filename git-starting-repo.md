@@ -26,7 +26,7 @@ For **cloning** a repository inside the directory or passing it's path, type:
 
 [Making track of your changes ( add / commit / push / pull )](https://github.com/matiassingers/awesome-readme)
 
-[Git initial configs](https://github.com/danielcorreia-dev/git-pro-learning/blob/c36544845db2f7d11969dabd7fdae9ec018beecc/git-config.md)
+[Git initial configs](https://github.com/danielcorreia-dev/git-pro-learning/blob/main/git-config.md)
 
 <br>
 
