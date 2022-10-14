@@ -7,6 +7,8 @@ Understanding ``git config`` , setting it up names, default editor and some usef
 
 `` system > global > local ``
 
+<br>
+
 Global file, will affect all projects using git.
 ```bash
   git config --global 
@@ -19,11 +21,15 @@ Local file, will affect only the repository that you're working with.
 ```bash
   git config --local
 ```
+
+<br>
+
 ## Setting up a default branch
 
 ```bash
   git config --global init.defaultBranch <branch>
 ```
+
 
 ## Name and email of commits
 ```bash
@@ -33,16 +39,17 @@ Local file, will affect only the repository that you're working with.
     git config --global user.email '<email>'
 ```
 
+
 ## Default Editor
 
 ```bash
     git config --global core.editor <editor>
 ```
 
+
 ## See all local configs
 
 ```bash
     git config -l
-
     git config --list
 ```
