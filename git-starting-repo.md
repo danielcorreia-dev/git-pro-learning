@@ -21,6 +21,12 @@ For **cloning** a repository inside the directory or passing it's path, type:
     git clone <url> <destination>
 ```
 
+If you want to clone the repository into a directory named something different from the origin you can pass an additional argument
+
+```bash
+    git clone <url> <name-of-the-directory>
+```
+
 ## Related Guides
 
 
