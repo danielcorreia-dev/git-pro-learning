@@ -1,7 +1,7 @@
 
 # Git Config - Useful Commands
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
-Understanding ``git config`` , setting it up names, default editor and some useful commands to use with new machines or when switching accounts.
+Understanding ``git config`` , setting it up names, the default editor and some useful commands to use with new machines or when switching accounts.
 
 ## Config Scopes
 
