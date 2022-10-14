@@ -1,6 +1,6 @@
 
-# Git Config - Useful Commands
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
+# Git Config - Initial Commands
+  
 Understanding ``git config`` , setting it up names, the default editor and some useful commands to use with new machines or when switching accounts.
 
 ## Config Scopes
@@ -53,3 +53,11 @@ Local file, will affect only the repository that you're working with.
     git config -l
     git config --list
 ```
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
